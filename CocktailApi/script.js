@@ -46,7 +46,7 @@ function cocktail() {
   http.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   http.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
   http.send(data);
 }
@@ -72,7 +72,7 @@ function cocktailVod() {
   http.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   http.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
   http.send(data);
 }
