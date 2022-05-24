@@ -19,7 +19,7 @@ function popular() {
   xhr.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   xhr.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
 
   xhr.send(data);
@@ -98,7 +98,7 @@ function cocktailRum() {
   http.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   http.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
   http.send(data);
 }
@@ -126,7 +126,7 @@ function cocktailTequila() {
   http.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   http.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
   http.send(data);
 }
@@ -152,7 +152,7 @@ function cocktailWine() {
   http.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   http.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
   http.send(data);
 }
@@ -178,7 +178,7 @@ function cocktailBeer() {
   http.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   http.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
   http.send(data);
 }
@@ -207,7 +207,7 @@ function cocktailWhisky() {
   http.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   http.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+   "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
   http.send(data);
 }
@@ -284,7 +284,7 @@ function ingredients() {
   xhr.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
   xhr.setRequestHeader(
     "x-rapidapi-key",
-    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056fa684"
+    "fe350936e5mshd9f406b8b6e1030p1f6777jsnba64056f****"
   );
 
   xhr.send(JSON.stringify(data));
